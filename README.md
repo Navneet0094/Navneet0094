@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Navneet sharma
+- 👀 I’m interested in coding and Data Science .
+- 🌱 I’m currently learning shell scripting , Data visulisation libraries ( matplotlib ,seaborn ),Python and Linear Alzebra.
+- 💞️ I’m looking to collaborate on Open source.
+- 📫 How to reach me  navneet444300@gmail.com
+- ⚡ Fun fact: Coding is very easy.
