@@ -2,14 +2,14 @@
 <h3 align="center">  Data Science & AI Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Passionate+software+Developer;AI+%26+Data+Science+Enthusiast;Open+Source+Contributor;System+Design+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=AI+%26+Data+Science+Enthusiast;Trianee+Buisness Analyst;Data+Engineer+Enthusiast" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me:
 - 💼 I'm currently pursuing Bachelors in **Data Science & Artificial Intelligence** at **IIT Guwahati**  
-- 👨‍💻 I’m an **open-source contributor** actively working on various projects
+- 👨‍💻 I’m an **Trainee Buisness Analyst** actively working on various projects
 - 🛠️ Love programming and creating **optimized software solutions** 
 - 🔥 Exploring the intersection of **AI**, **machine learning**, and **web development**
 - 🌍 Passionate about learning **different cultures and traditions**
@@ -35,7 +35,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
-
+<!--
 ### 🚀 Open Source & Projects:
 
 - 📂 Actively contributing to **open-source projects**  
@@ -60,6 +60,7 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Navneet0094&theme=github-compact)
 
 ---
+--->
 
 ### ⚡ Fun Fact:
 - I love exploring different cultures and traditions! 🌍  
