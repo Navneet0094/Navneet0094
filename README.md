@@ -17,8 +17,8 @@
 ---
 
 ### 🛠️ Tech Stack: Under Construstion
-
-# ![JavaScript](https://img.shields.io/badge/JavaScript-0078D6?style=for-the-badge&logo=javascript&logoColor=white)
+<!--
+![JavaScript](https://img.shields.io/badge/JavaScript-0078D6?style=for-the-badge&logo=javascript&logoColor=white)
 # ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 # ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 # ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -33,7 +33,7 @@
 # ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 # ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 # ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
+-->
 ---
 <!--
 ### 🚀 Open Source & Projects:
