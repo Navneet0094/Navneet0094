@@ -25,7 +25,7 @@ I am an Artificial Intelligence and Data Science enthusiast who enjoys exploring
 - Python | SQL | Java | C++
 - Statistics | Linear alzebra | Maths for data sciecne 
 - Pandas | NumPy | Matplotlib | Seaborn  | Machine Learning 
-- Power BI | Advanced Excel | Power query
+- Power BI | Advanced Excel | Power query | ETL | Pentaho Data Integration | Snowflake 
 - HTML | CSS  | Flask | Streamlit
 - Currently learning Deep learning | Gen-ai 
 
