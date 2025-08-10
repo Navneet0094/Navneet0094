@@ -22,12 +22,12 @@ I am an Artificial Intelligence and Data Science enthusiast who enjoys exploring
 
 ## 🛠️ Tech Stack *(Under Construction)*  
 <!-- You can replace this with badges later -->
-- Python | SQL | Java | C++
+- Python | SQL | Java | C++ 
 - Statistics | Linear alzebra | Maths for data sciecne 
 - Pandas | NumPy | Matplotlib | Seaborn  | Machine Learning 
 - Power BI | Advanced Excel | Power query | ETL | Pentaho Data Integration | Snowflake 
-- HTML | CSS  | Flask | Streamlit
-- Currently learning Deep learning | Gen-ai 
+- HTML | CSS  | Flask | Streamlit | Docker | Git 
+- Currently learning Deep learning | Gen-ai | Data Strucutres
 
 ---
 ## ⚡ Fun Fact  
