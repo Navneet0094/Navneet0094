@@ -22,12 +22,29 @@ I am an Artificial Intelligence and Data Science enthusiast who enjoys exploring
 
 ## 🛠️ Tech Stack *(Under Construction)*  
 <!-- You can replace this with badges later -->
-- Python | SQL | Java | C++  
-- Pandas | NumPy | Matplotlib | Seaborn  
-- Power BI | Excel  
-- HTML | CSS  
+- Python | SQL | Java | C++
+- Statistics | Linear alzebra | Maths for data sciecne 
+- Pandas | NumPy | Matplotlib | Seaborn  | Machine Learning 
+- Power BI | Advanced Excel | Power query
+- HTML | CSS  | Flask | Streamlit
+- Currently learning Deep learning | Gen-ai 
 
 ---
+## ⚡ Fun Fact  
+- I love exploring different cultures and traditions 🌏  
+- Debugging code feels like solving puzzles—it’s oddly satisfying! 🧩  
+
+---
+
+
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Navneet0094&theme=github-compact" alt="GitHub Activity Graph" />
+</p>
+
+---
+
 
 ## 📊 GitHub Stats  
 
@@ -35,13 +52,6 @@ I am an Artificial Intelligence and Data Science enthusiast who enjoys exploring
   <img src="https://github-readme-stats.vercel.app/api?username=Navneet0094&show_icons=true&theme=radical" alt="Navneet's GitHub Stats" />
 </p>
 
----
-
-## 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Navneet0094&theme=github-compact" alt="GitHub Activity Graph" />
-</p>
 
 ---
 
@@ -59,8 +69,3 @@ I am an Artificial Intelligence and Data Science enthusiast who enjoys exploring
 </a>
 </p>
 
----
-
-## ⚡ Fun Fact  
-- I love exploring different cultures and traditions 🌏  
-- Debugging code feels like solving puzzles—it’s oddly satisfying! 🧩  
