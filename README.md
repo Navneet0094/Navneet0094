@@ -1,70 +1,66 @@
+<!-- Profile Banner (Optional) -->
+<!-- You can add a header image here if you want -->
+<!-- <img src="your-banner-image-url" alt="Banner" /> -->
+
 <h1 align="center">Hi there 👋 I'm Navneet</h1>
-<h3 align="center">  Data Science & AI Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=AI+%26+Data+Science+Enthusiast;Trianee+Buisness Analyst;Data+Engineer+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=AI+%26+Data+Science+Enthusiast;Trainee+Business+Analyst;Data+Engineer+Enthusiast" />
 </p>
 
 ---
 
-### 👨‍💻 About Me:
-- 💼 I'm currently pursuing Bachelors in **Data Science & Artificial Intelligence** at **IIT Guwahati**  
-- 👨‍💻 I’m an **Trainee Buisness Analyst** actively working on various projects
-- 🛠️ Love programming and creating **optimized software solutions** 
-- 🔥 Exploring the intersection of **AI**, **machine learning**, and **web development**
-- 🌍 Passionate about learning **different cultures and traditions**
+## 👨‍💻 About Me  
+I am an Artificial Intelligence and Data Science enthusiast who enjoys exploring different domains in AI and Data Science. I work on fun projects, build optimized software solutions, and love learning along the way.
+
+- 💼 Currently pursuing **Bachelors in Data Science & Artificial Intelligence** at **IIT Guwahati**  
+- 👨‍💻 Working as a **Trainee Business Analyst**, actively involved in various projects  
+- 🛠️ Passionate about **programming**, **machine learning**, and **web development**  
+- 🌍 Love learning about different cultures and traditions  
 
 ---
 
-### 🛠️ Tech Stack: Under Construstion
-<!--
-![JavaScript](https://img.shields.io/badge/JavaScript-0078D6?style=for-the-badge&logo=javascript&logoColor=white)
-# ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-# ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-# ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-# ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) 
-# ![Data Structures](https://img.shields.io/badge/Data%20Structures-4CAF50?style=for-the-badge&logo=code&logoColor=white)
-# ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-# ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-# ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-# ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-# ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-# ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-# ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-# ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
--->
----
-<!--
-### 🚀 Open Source & Projects:
-
-- 📂 Actively contributing to **open-source projects**  
-- 🛠️ Working on **AI-driven applications** and **data science models**  
-- 🌟 Check out my repositories to see the **projects I've worked on**!  
-- 💡 Always looking to **collaborate** on exciting ideas and projects!
+## 🛠️ Tech Stack *(Under Construction)*  
+<!-- You can replace this with badges later -->
+- Python | SQL | Java | C++  
+- Pandas | NumPy | Matplotlib | Seaborn  
+- Power BI | Excel  
+- HTML | CSS  
 
 ---
 
+## 📊 GitHub Stats  
 
-### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Navneet0094&show_icons=true&theme=radical" alt="Navneet's GitHub Stats" />
+</p>
 
-![Jivan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Navneet0094&show_icons=true&theme=radical)         
+---
+
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Navneet0094&theme=github-compact" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
-### 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jivan-jamdar/)   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jivan052)   [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/JivanJamadar)   [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/jivan1234)
+## 🌐 Connect With Me  
 
-### 📈 Contribution Graph:
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Navneet0094&theme=github-compact)
+<p align="left">
+<a href="https://twitter.com/navnneeet" target="_blank">
+  <img src="https://github.com/KarnikaKapoor/karnikakapoor/blob/main/icons/185559_twitter_icon.png?raw=true" alt="Twitter" height="30" width="40" />
+</a>
+<a href="https://kaggle.com/navneet0094" target="_blank">
+  <img src="https://github.com/KarnikaKapoor/karnikakapoor/blob/main/icons/4519136_kaggle_icon.png?raw=true" alt="Kaggle" height="30" width="40" />
+</a>
+<a href="https://github.com/Navneet0094" target="_blank">
+  <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" height="30" width="40" />
+</a>
+</p>
 
 ---
---->
 
-### ⚡ Fun Fact:
-- I love exploring different cultures and traditions! 🌍  
-- Did you know? As a developer, I often debug code for fun—it’s like solving a puzzle that makes me feel unstoppable!
-
-
----
+## ⚡ Fun Fact  
+- I love exploring different cultures and traditions 🌏  
+- Debugging code feels like solving puzzles—it’s oddly satisfying! 🧩  
