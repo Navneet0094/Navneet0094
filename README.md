@@ -5,9 +5,8 @@
 <h1 align="center">Hi there 👋 I'm Navneet</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=AI+%26+ "Research Intern at IIT guwahati ;Trainee+Business+Analyst;Currently working in multimodal emotion detection" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=AI+%26+Research+Intern+at+IIT+Guwahati;Trainee+Business+Analyst;Currently+working+in+multimodal+emotion+detection" />
 </p>
-
 ---
 
 ## 👨‍💻 About Me  
