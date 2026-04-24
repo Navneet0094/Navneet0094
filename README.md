@@ -14,7 +14,7 @@
 I am an Artificial Intelligence and Data Science enthusiast who enjoys exploring different domains in AI and Data Science. I work on fun projects, build optimized software solutions, and love learning along the way.
 
 - 💼 Currently pursuing **Bachelors in Data Science & Artificial Intelligence** at **IIT Guwahati**  
-- 👨‍💻 Working as a **Trainee Business Analyst**, actively involved in various projects  
+- 👨‍💻 Working as a **Research intern at iit guwahati**, actively involved in various projects  
 - 🛠️ Passionate about **programming**, **machine learning**, and **web development**  
 - 🌍 Love learning about different cultures and traditions  
 
